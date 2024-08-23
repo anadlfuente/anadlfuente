@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anadlfuente
-- 👀 I’m interested in computational biology, specifically in genomics.
+- 👀 I’m interested in computational biology.
 - 🌱 I’m currently learning how to handle single cell sequencing transcriptomics data while developing web apps. 
 - 📫 How to reach me: anadlfuenteglez@gmail.com
 - 😄 Pronouns: she/her
